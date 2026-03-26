@@ -1,66 +1,19 @@
-# Repository-GEE-NASA
+# Dancing' Bros NASA GEE Project  
 
-## 📌 Description (English)
-
-This is the main repository of the **Repository-GEE-NASA** project, developed for the **NASA Hackathon** by the **Dancing' Bros** team.
-
-Here, all the project’s code will be archived and maintained. The project uses the **GEE (Google Earth Engine)** language, working with **TERRA** data and the **Google Earth Engine API**.
-
-
-### ⚙️ Requirements
-
-* **Java Runtime Environment (JRE)**
-* **Visual Studio Code (VSCode)**
-* **Google Cloud SDK**
-* **Google Earth Engine API**
-
-### 🚀 Installation & Usage
-
-1. Clone the private repository:
-
-   ```bash
-   git clone <private-repo>
-   cd Repository-GEE-NASA
-   ```
-2. Open the project in VSCode.
-3. Configure your Google Earth Engine API access with your authorized account.
-4. Run the scripts from the terminal or within VSCode.
-
-### 🌍 Project Goal
-
-The goal is to leverage **TERRA satellite data** and the power of the **Google Earth Engine API** to generate innovative solutions as part of the **NASA Hackathon**.
-
-This repository serves as the central collaboration hub for the **Dancing' Bros** team.
+**Team:** Dancing' Bros  
+**Members:** Oliver Sebastián Ortega García, David Alejandro Ortega García, Yazid Itzayana Rodríguez Rodríguez, Jaquelin de los Ángeles García Constantino, David Israel Ortega González  
+**Date:** October 4, 2025  
+**Organizer:** NASA Space Apps Challenge 2025
+**Localization:** Atoyac de Alavrez - Guerrero
 
 ---
 
-## 📌 Descripción (Español)
+## 🌍 Project Overview / Resumen del Proyecto
+**EN:** Using Google Earth Engine (GEE) to analyze land cover change from forest to pasture in Guerrero, Mexico.  
+**ES:** Uso de Google Earth Engine (GEE) para analizar el cambio de cobertura de selva a potrero en Guerrero, México.  
 
-Este es el repositorio principal del proyecto **Repository-GEE-NASA**, desarrollado para el **NASA Hackathon** por el equipo **Dancing' Bros**.
+---
 
-Aquí se archivará y mantendrá todo el código del proyecto, escrito en el lenguaje **GEE (Google Earth Engine)** y orientado al uso de datos **TERRA** junto con la **Google Earth Engine API**.
-
-### ⚙️ Requisitos
-
-* **Java Runtime Environment (JRE)**
-* **Visual Studio Code (VSCode)**
-* **Google Cloud SDK**
-* **Google Earth Engine API**
-
-### 🚀 Instalación y Uso
-
-1. Clona el repositorio privado:
-
-   ```bash
-   git clone <repo-privado>
-   cd Repository-GEE-NASA
-   ```
-2. Abre el proyecto en VSCode.
-3. Configura tu acceso a la API de Google Earth Engine con tu cuenta autorizada.
-4. Ejecuta los scripts desde la terminal o en VSCode.
-
-### 🌍 Objetivo del Proyecto
-
-El objetivo es aprovechar los **datos satelitales de TERRA** y el poder de la **Google Earth Engine API** para generar soluciones innovadoras dentro del marco del **NASA Hackathon**.
-
-Este repositorio funciona como el centro de colaboración del equipo **Dancing' Bros**.
+## 🧠 Notes / Notas
+**EN:** AI used only for editing this README. All analysis done with GEE.  
+**ES:** IA utilizada solo para editar este README. Todo el análisis se realizó con GEE.
